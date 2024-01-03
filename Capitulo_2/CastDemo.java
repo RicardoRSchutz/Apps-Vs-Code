@@ -1,4 +1,4 @@
-package Capitulo2;
+package Capitulo_2;
 public class CastDemo {
     public static void main(String[] args) {
         double x, y;

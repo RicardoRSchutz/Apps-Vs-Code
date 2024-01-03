@@ -1,4 +1,4 @@
-package Capitulo2;
+package Capitulo_2;
 //Demonstra os operadores de curto-circuito.
 public class SCops {
     public static void main(String[] args) {

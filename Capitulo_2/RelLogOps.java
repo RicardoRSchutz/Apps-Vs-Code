@@ -1,4 +1,4 @@
-package Capitulo2;
+package Capitulo_2;
 //Demonstra os operadores relacionais logicos
 /**
  * RelLogOps

@@ -1,4 +1,4 @@
-package Capitulo2;
+package Capitulo_2;
 //Tente isso 2-2: uma tabela-verdade para os operadores lógicos.
 public class LogicalOpTable {
     public static void main(String[] args) {
