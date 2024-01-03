@@ -1,3 +1,4 @@
+package Capitulo2;
 public class CastDemo {
     public static void main(String[] args) {
         double x, y;

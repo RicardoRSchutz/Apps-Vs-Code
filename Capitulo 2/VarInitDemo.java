@@ -1,3 +1,4 @@
+package Capitulo2;
 //Demonstra o tempo de vida de uma variavel.
 /**
  * VarInitDemo

@@ -1,3 +1,4 @@
+package Capitulo2;
 //Demonstra o operador %
 class ModDemo{
     public static void main(String args[]) {
