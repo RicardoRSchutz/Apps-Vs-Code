@@ -1,3 +1,4 @@
+package Capitulo_3;
 //Adivinhe a letra do jogo,3a versao
 public class Guess {
     public static void main(String[] args) 
