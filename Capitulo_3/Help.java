@@ -23,7 +23,7 @@ public class Help {
             case '1':
             System.out.println("The if:\n");
             System.out.println("If (condition) statement;");
-            System.out.println("else statemant;");
+            System.out.println("else statement;");
             break;
 
             case '2':
