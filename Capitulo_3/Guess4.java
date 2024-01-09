@@ -5,8 +5,8 @@ public class Guess4 {
         char ch, ignore, answer = 'K';
 
         do{
-            System.out.println("Im thinking of a letter between A and Z.");
-            System.out.println("Can you guess it: ");
+            System.out.println("Estou pensando em uma letra de A a Z ");
+            System.out.println("Tente adivinhar: ");
 
             // le um caractere
             ch = (char) System.in.read();
@@ -16,12 +16,12 @@ public class Guess4 {
                 ignore = (char) System.in.read();
             } while (ignore !='\n');
 
-            if(ch == answer) System.out.println("** Right **");
+            if(ch == answer) System.out.println("** Correto!! **");
             else{
-                System.out.println("...Sorry, you're ");
-                if(ch < answer) System.out.println("too low");
-                else System.out.println( "too high");
-                System.out.println("Try again!\n");
+                System.out.println("...Desculpa, letra esta ");
+                if(ch < answer) System.out.println("muito baixa");
+                else System.out.println( "muito alta");
+                System.out.println("Tente novamente!\n");
             }
         }while (answer !=ch);            
     }
